@@ -7,7 +7,7 @@ A basic task management app with an integrated session system. You can register,
 
 
 This is the original version of a this other app:
-https://github.com/joelkm/Task-manager
+https://github.com/joelkm/Task-manager-v2
 
 You can use the app here:
 https://task-manager-mx3w.onrender.com
