@@ -2,15 +2,9 @@ FROM node:18
 
 WORKDIR /app
 
-COPY package*.json ./
-
-COPY server/package*.json ./server
-
-COPY client/package*.json ./client
+COPY  . .
 
 RUN npm run install-dependencies
-
-COPY  . .
 
 RUN npm run build
 
