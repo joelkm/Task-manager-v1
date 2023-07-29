@@ -9,7 +9,7 @@
     "install-client-dependencies": "cd client&& npm i",
     "install-dependencies": "npm run install-client-dependencies&& npm run install-server-dependencies",
     "build": "cd client&& npm run build",
-    "start": "cd server&& npm start"
+    "start": "cp .env server&& cd server&& npm start"
   },
   "keywords": [],
   "author": "",
