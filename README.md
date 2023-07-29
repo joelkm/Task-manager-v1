@@ -1,6 +1,11 @@
 # Task manager V1
 A basic task management app with an integrated session system. You can register, login to the app and create, edit and delete tasks.
 
+![image](https://github.com/joelkm/Task-manager-v1/assets/109240974/116201e7-e2b3-4410-bb8c-620bf168e6d7)
+![image](https://github.com/joelkm/Task-manager-v1/assets/109240974/8458e601-8582-416f-938b-136d49f846d2)
+![image](https://github.com/joelkm/Task-manager-v1/assets/109240974/bb57c477-f113-41c1-bdf6-1f96d06e6950)
+
+
 This is the original version of a this other app:
 https://github.com/joelkm/Task-manager
 
